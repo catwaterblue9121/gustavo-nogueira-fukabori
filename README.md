@@ -1,16 +1,57 @@
-# gustavo-nogueira-fukabori
-# 💫 About Me:
-SFSFDFSDFSDFDSFSDFDSF
+<div align="center">
 
+  <h1>✨ Gustavo Nogueira Fukabori ✨</h1>
+  <p><i>Desenvolvedor em constante evolução | Apaixonado por tecnologia e resolução de problemas</i></p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=catwaterblue9121&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=catwaterblue9121&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=catwaterblue9121&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Entusiasta+de+Desenvolvimento+Web;Explorando+novas+tecnologias" alt="Typing SVG" />
+
+</div>
+
+<br/>
+
+### 💫 Sobre Mim
+
+👋 Olá! Sou o Gustavo.
+
+* 🔭 Atualmente focado em aprimorar minhas habilidades em desenvolvimento Web e Banco de Dados.
+* 💡 Apaixonado por transformar ideias em código limpo e funcional.
+* 🌱 Aprendendo constantemente novas ferramentas e frameworks.
+* 📬 Como me encontrar: [Adicione seu LinkedIn ou E-mail aqui]
+
+<br/>
+
+### 💻 Tech Stack
+
+<div align="center">
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<br/>
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=catwaterblue9121&theme=omni&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=catwaterblue9121&theme=omni&hide_border=true&layout=compact" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com/?user=catwaterblue9121&theme=omni&hide_border=true" />
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=catwaterblue9121&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+  ![Visitantes](https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS)
+
+</div>
