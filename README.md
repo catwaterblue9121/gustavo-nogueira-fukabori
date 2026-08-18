@@ -16,7 +16,7 @@
 * 🔭 Atualmente focado em aprimorar minhas habilidades em desenvolvimento Web e Banco de Dados.
 * 💡 Apaixonado por transformar ideias em código limpo e funcional.
 * 🌱 Aprendendo constantemente novas ferramentas e frameworks.
-* 📬 Como me encontrar: [Adicione seu LinkedIn ou E-mail aqui]
+* 📬 Como me encontrar: gustavo.nogueira.fukabori1a@gmail.com
 
 <br/>
 
