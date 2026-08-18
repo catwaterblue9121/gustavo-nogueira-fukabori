@@ -53,6 +53,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GustavoN46&color=00b4d8&style=flat-square&label=VISITAS" alt="Visitas" />
+<img src="https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS" alt="Visitas" />
 
 </div>
