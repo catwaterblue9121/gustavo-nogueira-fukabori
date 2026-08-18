@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>✨ Gustavo Nogueira Fukabori ✨</h1>
+  <h1>Gustavo Nogueira Fukabori</h1>
   <p><i>Desenvolvedor em constante evolução | Apaixonado por tecnologia e resolução de problemas</i></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Entusiasta+de+Desenvolvimento+Web;Explorando+novas+tecnologias" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 <br/>
 
-### 💫 Sobre Mim
+### 📖 Sobre Mim
 
 👋 Olá! Sou o Gustavo.
 
