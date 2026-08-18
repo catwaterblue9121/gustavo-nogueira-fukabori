@@ -53,6 +53,5 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS" alt="Visitas" />
-
+<img src="https://views.igorkowalczyk.dev/api/badge/catwaterblue9121" alt="Github Views" />
 </div>
