@@ -24,13 +24,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -40,19 +40,19 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=catwaterblue9121&theme=omni&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=catwaterblue9121&theme=omni&hide_border=true&layout=compact" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=catwaterblue9121&theme=omni&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=catwaterblue9121&theme=omni&hide_border=true&layout=compact" />
 
 <br/><br/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=catwaterblue9121&theme=omni&hide_border=true" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=catwaterblue9121&theme=omni&hide_border=true" />
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
+<img src="https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS" alt="Visitas" />
 
 </div>
