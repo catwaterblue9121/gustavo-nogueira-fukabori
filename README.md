@@ -53,6 +53,9 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=GustavoN46&color=00b4d8&style=flat-square&label=VISITAS" alt="Visitas" />
+<img
+  src="https://count.getloli.com/@GustavoN46?name=GustavoN46&theme=booru-twilight&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto"
+  alt="Visitas"
+/>
 
 </div>
