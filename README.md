@@ -44,8 +44,6 @@
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=catwaterblue9121&theme=omni&hide_border=true" />
-
 </div>
 
 ---
