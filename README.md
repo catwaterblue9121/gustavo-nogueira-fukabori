@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=catwaterblue9121&theme=omni&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=catwaterblue9121&theme=omni&hide_border=true&background=191724&ring=eb6f92&fire=eb6f92&currStreakNum=f6c177" />
 
 </div>
 
