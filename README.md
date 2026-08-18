@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=catwaterblue9121&theme=omni&hide_border=true&background=191724&ring=eb6f92&fire=eb6f92&currStreakNum=f6c177" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=catwaterblue9121&theme=omni&hide_border=true" />
 
 </div>
 
@@ -53,6 +53,6 @@
 
 <div align="center">
 
-![Visitantes](https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS)
+<img src="https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS" alt="Visitas" />
 
 </div>
