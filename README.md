@@ -42,6 +42,7 @@
   <img height="170" src="https://github-readme-stats.shion.dev/api?username=catwaterblue9121&theme=omni&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=catwaterblue9121&theme=omni&hide_border=true&layout=compact" />
 
+  <img src="https://streak-stats.demolab.com?user=catwaterblue9121&theme=omni&hide_border=true" />
   <br/><br/>
 
 </div>
