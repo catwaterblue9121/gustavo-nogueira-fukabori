@@ -45,14 +45,12 @@
 
 <br/><br/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=catwaterblue9121&theme=omni&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com/?user=catwaterblue9121&theme=omni&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS" alt="Visitas" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=catwaterblue9121&color=00b4d8&style=flat-square&label=VISITAS" alt="Visitas" />
+</p>
